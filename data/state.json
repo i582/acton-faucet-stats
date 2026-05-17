@@ -1,0 +1,30 @@
+{
+  "address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
+  "endpoint": "https://testnet.toncenter.com/api/v3/transactions",
+  "start": {
+    "source_url": "https://testnet.tonviewer.com/transaction/c90aeade342655596b0524e1bfbe58f0a39f2661bce19168d5b7f4ae61ef20b5",
+    "source_tx_hash_hex": "c90aeade342655596b0524e1bfbe58f0a39f2661bce19168d5b7f4ae61ef20b5",
+    "source_tx_hash": "yQrq3jQmVVlrBSThv75Y8KOfJmG84ZFo1bf0rmHvILU=",
+    "source_utime": 1778485075,
+    "account_start_utime": 1778485076,
+    "account_start_lt": "68861867000001",
+    "account_start_tx_hash": "XgFWCo7OhFRHmKek6kj8dU5W9tkbnzV3qyvSTCLWJCo="
+  },
+  "last_utime": 1779031283,
+  "last_lt": "70284226000001",
+  "last_hash": "jDzQCX/W3n0NaFWZBeS5R+wX07r4DrFPKsO6hDk8xsQ=",
+  "updated_at": "2026-05-17T16:39:22.629Z",
+  "last_fetch_start_utime": 1778485075,
+  "last_run": {
+    "fetched_transactions": 150,
+    "added_events": 150,
+    "overlap_seconds": 7200,
+    "page_limit": 1000,
+    "max_pages": 25,
+    "recipient_details": {
+      "total_recipients": 103,
+      "checked_recipients": 103,
+      "skipped_recipients": 0
+    }
+  }
+}

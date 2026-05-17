@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Acton faucet stats</title>
+    <style>
+      table {
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        border: 1px solid #999;
+        padding: 4px 6px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Acton faucet stats</h1>
+      <p id="status">Loading data/events.jsonl...</p>
+      <p>
+        Faucet:
+        <a
+          href="https://testnet.tonviewer.com/kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX"
+          target="_blank"
+          rel="noopener noreferrer"
+        ><code id="address">kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX</code></a>
+      </p>
+      <p>
+        <button id="reload" type="button">Reload</button>
+        <button id="openTonscan" type="button">Open in Tonscan</button>
+        <button id="openTonviewer" type="button">Open in Tonviewer</button>
+      </p>
+
+      <h2>Summary</h2>
+      <dl id="summary"></dl>
+
+      <h2>Claims by day</h2>
+      <canvas id="claimsByDay" width="900" height="260"></canvas>
+
+      <h2>TON paid by day</h2>
+      <canvas id="amountByDay" width="900" height="260"></canvas>
+
+      <h2>Daily table</h2>
+      <table id="dailyTable">
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Claims</th>
+            <th>Failed</th>
+            <th>TON paid</th>
+            <th>Unique requesters</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <h2>Wallet initialization</h2>
+      <table id="walletInitTable">
+        <thead>
+          <tr>
+            <th>Status</th>
+            <th>Recipients</th>
+            <th>Claims</th>
+            <th>TON paid</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <h2>Wallets</h2>
+      <table id="walletsTable">
+        <thead>
+          <tr>
+            <th>Wallet</th>
+            <th>Recipients</th>
+            <th>Claims</th>
+            <th>TON paid</th>
+            <th>With external activity</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+
+      <h2>Recipients</h2>
+      <table id="recipientsTable">
+        <thead>
+          <tr>
+            <th>Recipient</th>
+            <th>Claims</th>
+            <th>TON paid</th>
+            <th>Initialized</th>
+            <th>Wallet</th>
+            <th>Seqno</th>
+            <th>External reqs</th>
+            <th>Last external</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>

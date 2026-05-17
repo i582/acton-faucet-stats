@@ -1,0 +1,13 @@
+{
+  "name": "acton-faucet-stats",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "collect": "node scripts/collect.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
+
