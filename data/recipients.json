@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-05-23T22:31:48.119Z",
+  "generated_at": "2026-05-23T23:33:23.497Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 143,
   "checked_recipients": 143,
@@ -27,14 +27,14 @@
         "wallet_id": 698983191,
         "seqno": 1739,
         "is_signature_allowed": null,
-        "balance": "958719249701",
-        "balance_ton": 958.719249701,
+        "balance": "958720176086",
+        "balance_ton": 958.720176086,
         "code_hash": "/rX/aCDi/w2Ug+fg1iyBfYRniftK5YDIeIZtlZ2r1cA=",
         "interfaces": [
           "wallet_v4r2"
         ],
-        "last_transaction_lt": "71219069000004",
-        "last_transaction_hash": "GSf2hSCN3qz8amAYepSjW6qrPZ8h67Ll1rU2Zelu4aY="
+        "last_transaction_lt": "71632997000003",
+        "last_transaction_hash": "BzpOwG/ybE4gxsL0xEc8xdQf4R3MI5wR8TeN9tBp1WQ="
       },
       "usage": {
         "transactions_after_receive": 1000,
@@ -4983,14 +4983,14 @@
         "wallet_id": 698983191,
         "seqno": 1436,
         "is_signature_allowed": null,
-        "balance": "1081557",
-        "balance_ton": 0.001081557,
+        "balance": "2010122",
+        "balance_ton": 0.002010122,
         "code_hash": "/rX/aCDi/w2Ug+fg1iyBfYRniftK5YDIeIZtlZ2r1cA=",
         "interfaces": [
           "wallet_v4r2"
         ],
-        "last_transaction_lt": "71340544000004",
-        "last_transaction_hash": "jbMuRmID9tZ/BpwYdmj51EZ9lfq3513SS3qLXRl0Ei0="
+        "last_transaction_lt": "71632427000001",
+        "last_transaction_hash": "/NB9/LithZ2GcFBb8dEV6ngok+sdp6SYtTI0hybZXRw="
       },
       "usage": {
         "transactions_after_receive": 1000,
