@@ -1,9 +1,9 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-05-25T09:39:21.549Z",
+  "generated_at": "2026-05-25T11:37:08.030Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
-  "total_recipients": 148,
-  "checked_recipients": 148,
+  "total_recipients": 150,
+  "checked_recipients": 150,
   "skipped_recipients": 0,
   "settings": {
     "recipient_transactions_page_limit": 100,
@@ -27,14 +27,14 @@
         "wallet_id": 698983191,
         "seqno": 1739,
         "is_signature_allowed": null,
-        "balance": "958720176086",
-        "balance_ton": 958.720176086,
+        "balance": "958721103378",
+        "balance_ton": 958.721103378,
         "code_hash": "/rX/aCDi/w2Ug+fg1iyBfYRniftK5YDIeIZtlZ2r1cA=",
         "interfaces": [
           "wallet_v4r2"
         ],
-        "last_transaction_lt": "71632997000003",
-        "last_transaction_hash": "BzpOwG/ybE4gxsL0xEc8xdQf4R3MI5wR8TeN9tBp1WQ="
+        "last_transaction_lt": "72004688000003",
+        "last_transaction_hash": "c6fJRfq4UJU5hIKxcW3N/K5kokB35I75249B1+FwDnc="
       },
       "usage": {
         "transactions_after_receive": 1000,
@@ -6701,6 +6701,84 @@
         "last_activity_utime": 1779635991,
         "last_activity_time": "2026-05-24T15:19:51.000Z",
         "scanned_transactions": 5,
+        "scan_truncated": false
+      }
+    },
+    {
+      "address": "0:E6C886EA05DF3958371445BD807AA0456C09647E12989B2B75D978C624FB74F3",
+      "first_received_utime": 1779704444,
+      "first_received_time": "2026-05-25T10:20:44.000Z",
+      "last_received_utime": 1779704444,
+      "last_received_time": "2026-05-25T10:20:44.000Z",
+      "claims": 1,
+      "amount": "2000000000",
+      "amount_ton": 2,
+      "wallet": {
+        "initialized": false,
+        "status": "uninit",
+        "is_wallet": false,
+        "wallet_type": null,
+        "wallet_id": null,
+        "seqno": null,
+        "is_signature_allowed": null,
+        "balance": "2000000000",
+        "balance_ton": 2,
+        "code_hash": null,
+        "interfaces": [],
+        "last_transaction_lt": "72001176000003",
+        "last_transaction_hash": "IHp2a7I/Z16tgi+QWstOKt8TED8AnrXhh+k/QPjMk4Y="
+      },
+      "usage": {
+        "transactions_after_receive": 1,
+        "outgoing_messages_after_receive": 0,
+        "external_requests_after_receive": 0,
+        "external_opcodes": [],
+        "first_external_utime": null,
+        "first_external_time": null,
+        "last_external_utime": null,
+        "last_external_time": null,
+        "last_activity_utime": 1779704444,
+        "last_activity_time": "2026-05-25T10:20:44.000Z",
+        "scanned_transactions": 1,
+        "scan_truncated": false
+      }
+    },
+    {
+      "address": "0:AC0866FFCFA645BF04A663972B063D60BFDF3CAE4062781755090821B8A8412F",
+      "first_received_utime": 1779704452,
+      "first_received_time": "2026-05-25T10:20:52.000Z",
+      "last_received_utime": 1779704452,
+      "last_received_time": "2026-05-25T10:20:52.000Z",
+      "claims": 1,
+      "amount": "2000000000",
+      "amount_ton": 2,
+      "wallet": {
+        "initialized": false,
+        "status": "uninit",
+        "is_wallet": false,
+        "wallet_type": null,
+        "wallet_id": null,
+        "seqno": null,
+        "is_signature_allowed": null,
+        "balance": "2000000000",
+        "balance_ton": 2,
+        "code_hash": null,
+        "interfaces": [],
+        "last_transaction_lt": "72001196000003",
+        "last_transaction_hash": "mV+vpyPhV5a/o3/J5dhj0Lo07v5lO9QWx9NyYmfN0X4="
+      },
+      "usage": {
+        "transactions_after_receive": 1,
+        "outgoing_messages_after_receive": 0,
+        "external_requests_after_receive": 0,
+        "external_opcodes": [],
+        "first_external_utime": null,
+        "first_external_time": null,
+        "last_external_utime": null,
+        "last_external_time": null,
+        "last_activity_utime": 1779704452,
+        "last_activity_time": "2026-05-25T10:20:52.000Z",
+        "scanned_transactions": 1,
         "scan_truncated": false
       }
     }
