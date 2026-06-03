@@ -10,20 +10,20 @@
     "account_start_lt": "68861867000001",
     "account_start_tx_hash": "XgFWCo7OhFRHmKek6kj8dU5W9tkbnzV3qyvSTCLWJCo="
   },
-  "last_utime": 1780497777,
-  "last_lt": "74105280000001",
-  "last_hash": "oS+8VdtFxgJMA/q0y2ntpnwzHQYb7294F4SWEydG5kI=",
-  "updated_at": "2026-06-03T15:53:02.022Z",
-  "last_fetch_start_utime": 1780462248,
+  "last_utime": 1780511530,
+  "last_lt": "74141784000001",
+  "last_hash": "yJmXAOmrRKsLE7dQmBXw6is9Qq6T65BYPHqPSDv4Pmc=",
+  "updated_at": "2026-06-03T19:39:28.721Z",
+  "last_fetch_start_utime": 1780490577,
   "last_run": {
-    "fetched_transactions": 3,
+    "fetched_transactions": 2,
     "added_events": 1,
     "overlap_seconds": 7200,
     "page_limit": 1000,
     "max_pages": 25,
     "recipient_details": {
-      "total_recipients": 184,
-      "checked_recipients": 184,
+      "total_recipients": 185,
+      "checked_recipients": 185,
       "skipped_recipients": 0
     }
   }
