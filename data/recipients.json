@@ -1,9 +1,9 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-06-08T23:42:36.038Z",
+  "generated_at": "2026-06-09T01:20:00.115Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
-  "total_recipients": 213,
-  "checked_recipients": 213,
+  "total_recipients": 214,
+  "checked_recipients": 214,
   "skipped_recipients": 0,
   "settings": {
     "recipient_transactions_page_limit": 100,
@@ -9603,6 +9603,47 @@
         "last_external_time": null,
         "last_activity_utime": 1780926556,
         "last_activity_time": "2026-06-08T13:49:16.000Z",
+        "scanned_transactions": 1,
+        "scan_truncated": false
+      }
+    },
+    {
+      "address": "0:807C8B851654BC449C98414EE915A3755EA70EF15E25665F921FC09AF79D17A8",
+      "first_received_utime": 1780963953,
+      "first_received_time": "2026-06-09T00:12:33.000Z",
+      "last_received_utime": 1780963953,
+      "last_received_time": "2026-06-09T00:12:33.000Z",
+      "claims": 1,
+      "amount": "2000000000",
+      "amount_ton": 2,
+      "wallet": {
+        "initialized": true,
+        "status": "active",
+        "is_wallet": true,
+        "wallet_type": "wallet v5 r1",
+        "wallet_id": 2147483645,
+        "seqno": 6,
+        "is_signature_allowed": true,
+        "balance": "2006235256",
+        "balance_ton": 2.006235256,
+        "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
+        "interfaces": [
+          "wallet_v5r1"
+        ],
+        "last_transaction_lt": "75337354000001",
+        "last_transaction_hash": "lhTo/0cETndi7Zx6jMbs9qvYt723b+aNkvPKgU1mqaU="
+      },
+      "usage": {
+        "transactions_after_receive": 1,
+        "outgoing_messages_after_receive": 0,
+        "external_requests_after_receive": 0,
+        "external_opcodes": [],
+        "first_external_utime": null,
+        "first_external_time": null,
+        "last_external_utime": null,
+        "last_external_time": null,
+        "last_activity_utime": 1780963954,
+        "last_activity_time": "2026-06-09T00:12:34.000Z",
         "scanned_transactions": 1,
         "scan_truncated": false
       }
