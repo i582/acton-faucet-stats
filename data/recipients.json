@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-06-20T16:49:06.400Z",
+  "generated_at": "2026-06-20T17:49:09.856Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 266,
   "checked_recipients": 266,
@@ -11792,35 +11792,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 6,
+        "seqno": 9,
         "is_signature_allowed": true,
-        "balance": "14984046727",
-        "balance_ton": 14.984046727,
+        "balance": "22300478",
+        "balance_ton": 0.022300478,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "77922672000001",
-        "last_transaction_hash": "8a00XOAS9q2ioH7bvlgzNTLCPTO7QfWjBAueWNt3q+E="
+        "last_transaction_lt": "77932841000001",
+        "last_transaction_hash": "yQkrL4MGPuS0vu1HOX/OoyvOPyakYvTnbcWngxrht60="
       },
       "usage": {
-        "transactions_after_receive": 10,
-        "outgoing_messages_after_receive": 6,
-        "external_requests_after_receive": 6,
+        "transactions_after_receive": 14,
+        "outgoing_messages_after_receive": 9,
+        "external_requests_after_receive": 9,
         "external_opcodes": [
           {
             "opcode": "0x7369676e",
             "decoded_opcode": "w5_external_signed_request",
-            "count": 6
+            "count": 9
           }
         ],
         "first_external_utime": 1781938119,
         "first_external_time": "2026-06-20T06:48:39.000Z",
-        "last_external_utime": 1781970878,
-        "last_external_time": "2026-06-20T15:54:38.000Z",
-        "last_activity_utime": 1781970878,
-        "last_activity_time": "2026-06-20T15:54:38.000Z",
-        "scanned_transactions": 10,
+        "last_external_utime": 1781974880,
+        "last_external_time": "2026-06-20T17:01:20.000Z",
+        "last_activity_utime": 1781974880,
+        "last_activity_time": "2026-06-20T17:01:20.000Z",
+        "scanned_transactions": 14,
         "scan_truncated": false
       }
     },
@@ -11839,35 +11839,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 32,
+        "seqno": 35,
         "is_signature_allowed": true,
-        "balance": "6925662577",
-        "balance_ton": 6.925662577,
+        "balance": "27742164",
+        "balance_ton": 0.027742164,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "77922956000005",
-        "last_transaction_hash": "BfxHxfMYc0O+z4O0YEWTjZ/JHXRgnyTa3AL2ZUnTt74="
+        "last_transaction_lt": "77932738000001",
+        "last_transaction_hash": "79yzJZwoFAI//8anPuvcfEwr0SmDBIk1huDqF+3gX0Y="
       },
       "usage": {
-        "transactions_after_receive": 52,
-        "outgoing_messages_after_receive": 30,
-        "external_requests_after_receive": 32,
+        "transactions_after_receive": 56,
+        "outgoing_messages_after_receive": 33,
+        "external_requests_after_receive": 35,
         "external_opcodes": [
           {
             "opcode": "0x7369676e",
             "decoded_opcode": "w5_external_signed_request",
-            "count": 32
+            "count": 35
           }
         ],
         "first_external_utime": 1781938389,
         "first_external_time": "2026-06-20T06:53:09.000Z",
-        "last_external_utime": 1781970991,
-        "last_external_time": "2026-06-20T15:56:31.000Z",
-        "last_activity_utime": 1781970991,
-        "last_activity_time": "2026-06-20T15:56:31.000Z",
-        "scanned_transactions": 52,
+        "last_external_utime": 1781974840,
+        "last_external_time": "2026-06-20T17:00:40.000Z",
+        "last_activity_utime": 1781974840,
+        "last_activity_time": "2026-06-20T17:00:40.000Z",
+        "scanned_transactions": 56,
         "scan_truncated": false
       }
     },
