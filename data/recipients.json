@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-06-25T01:22:31.890Z",
+  "generated_at": "2026-06-25T03:28:25.444Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 276,
   "checked_recipients": 276,
@@ -12444,32 +12444,40 @@
       "amount": "2000000000",
       "amount_ton": 2,
       "wallet": {
-        "initialized": false,
-        "status": "uninit",
-        "is_wallet": false,
-        "wallet_type": null,
-        "wallet_id": null,
-        "seqno": null,
-        "is_signature_allowed": null,
-        "balance": "2000000000",
-        "balance_ton": 2,
-        "code_hash": null,
-        "interfaces": [],
-        "last_transaction_lt": "78865140000003",
-        "last_transaction_hash": "DteNVA6ircrhaTF/Mqt5ITOo7f2IYxyVCTmYU1ZaSro="
+        "initialized": true,
+        "status": "active",
+        "is_wallet": true,
+        "wallet_type": "wallet v5 r1",
+        "wallet_id": 2147483645,
+        "seqno": 5,
+        "is_signature_allowed": true,
+        "balance": "1563559150",
+        "balance_ton": 1.56355915,
+        "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
+        "interfaces": [
+          "wallet_v5r1"
+        ],
+        "last_transaction_lt": "78876140000005",
+        "last_transaction_hash": "1EX2N88U7zDu5n8MQ45J/aM/yEEKv0OXTsozM8Pm3FQ="
       },
       "usage": {
-        "transactions_after_receive": 1,
-        "outgoing_messages_after_receive": 0,
-        "external_requests_after_receive": 0,
-        "external_opcodes": [],
-        "first_external_utime": null,
-        "first_external_time": null,
-        "last_external_utime": null,
-        "last_external_time": null,
-        "last_activity_utime": 1782349899,
-        "last_activity_time": "2026-06-25T01:11:39.000Z",
-        "scanned_transactions": 1,
+        "transactions_after_receive": 8,
+        "outgoing_messages_after_receive": 5,
+        "external_requests_after_receive": 5,
+        "external_opcodes": [
+          {
+            "opcode": "0x7369676e",
+            "decoded_opcode": "w5_external_signed_request",
+            "count": 5
+          }
+        ],
+        "first_external_utime": 1782350620,
+        "first_external_time": "2026-06-25T01:23:40.000Z",
+        "last_external_utime": 1782354274,
+        "last_external_time": "2026-06-25T02:24:34.000Z",
+        "last_activity_utime": 1782354274,
+        "last_activity_time": "2026-06-25T02:24:34.000Z",
+        "scanned_transactions": 8,
         "scan_truncated": false
       }
     }
