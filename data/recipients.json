@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-06-30T05:43:17.116Z",
+  "generated_at": "2026-06-30T07:43:31.660Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 322,
   "checked_recipients": 322,
@@ -14576,35 +14576,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 6,
+        "seqno": 9,
         "is_signature_allowed": true,
-        "balance": "1553834070",
-        "balance_ton": 1.55383407,
+        "balance": "1301275109",
+        "balance_ton": 1.301275109,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "79971323000009",
-        "last_transaction_hash": "Ecehhz3poERO/Sf818xgEOCKMgZ868KQCvHuCb6aIQU="
+        "last_transaction_lt": "79997936000001",
+        "last_transaction_hash": "MB5JAEtVBLt/Zppyt5x0BYlItDZThh0hxJrNJkx5qtw="
       },
       "usage": {
-        "transactions_after_receive": 11,
-        "outgoing_messages_after_receive": 6,
-        "external_requests_after_receive": 6,
+        "transactions_after_receive": 14,
+        "outgoing_messages_after_receive": 9,
+        "external_requests_after_receive": 9,
         "external_opcodes": [
           {
             "opcode": "0x7369676e",
             "decoded_opcode": "w5_external_signed_request",
-            "count": 6
+            "count": 9
           }
         ],
         "first_external_utime": 1782788215,
         "first_external_time": "2026-06-30T02:56:55.000Z",
-        "last_external_utime": 1782790422,
-        "last_external_time": "2026-06-30T03:33:42.000Z",
-        "last_activity_utime": 1782790441,
-        "last_activity_time": "2026-06-30T03:34:01.000Z",
-        "scanned_transactions": 11,
+        "last_external_utime": 1782801081,
+        "last_external_time": "2026-06-30T06:31:21.000Z",
+        "last_activity_utime": 1782801081,
+        "last_activity_time": "2026-06-30T06:31:21.000Z",
+        "scanned_transactions": 14,
         "scan_truncated": false
       }
     },
