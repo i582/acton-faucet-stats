@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-02T22:42:24.415Z",
+  "generated_at": "2026-07-02T23:42:12.765Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 381,
   "checked_recipients": 381,
@@ -2664,35 +2664,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 61,
+        "seqno": 64,
         "is_signature_allowed": true,
-        "balance": "323523410",
-        "balance_ton": 0.32352341,
+        "balance": "246814487",
+        "balance_ton": 0.246814487,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "80485256000007",
-        "last_transaction_hash": "fbdSUcCUdWqWgjXO0CwAI8736DjHbtFTJ1EIRYKVwOE="
+        "last_transaction_lt": "80576283000001",
+        "last_transaction_hash": "yaOhVRZFOO/ZEY7Vp012H18a6Ug9CSgerROjLEzec90="
       },
       "usage": {
-        "transactions_after_receive": 105,
-        "outgoing_messages_after_receive": 34,
-        "external_requests_after_receive": 56,
+        "transactions_after_receive": 108,
+        "outgoing_messages_after_receive": 35,
+        "external_requests_after_receive": 58,
         "external_opcodes": [
           {
             "opcode": "0x7369676e",
             "decoded_opcode": "w5_external_signed_request",
-            "count": 56
+            "count": 58
           }
         ],
         "first_external_utime": 1779802101,
         "first_external_time": "2026-05-26T13:28:21.000Z",
-        "last_external_utime": 1783031582,
-        "last_external_time": "2026-07-02T22:33:02.000Z",
-        "last_activity_utime": 1783031582,
-        "last_activity_time": "2026-07-02T22:33:02.000Z",
-        "scanned_transactions": 105,
+        "last_external_utime": 1783031898,
+        "last_external_time": "2026-07-02T22:38:18.000Z",
+        "last_activity_utime": 1783031898,
+        "last_activity_time": "2026-07-02T22:38:18.000Z",
+        "scanned_transactions": 108,
         "scan_truncated": false
       }
     },
@@ -7570,35 +7570,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v4 r2",
         "wallet_id": 698983191,
-        "seqno": 92,
+        "seqno": 94,
         "is_signature_allowed": null,
-        "balance": "585116745",
-        "balance_ton": 0.585116745,
+        "balance": "462544491",
+        "balance_ton": 0.462544491,
         "code_hash": "/rX/aCDi/w2Ug+fg1iyBfYRniftK5YDIeIZtlZ2r1cA=",
         "interfaces": [
           "wallet_v4r2"
         ],
-        "last_transaction_lt": "80571323000001",
-        "last_transaction_hash": "61eomOFjRlqLSBfcOD+K+Kn4Cjij7AbcMaagJdA325w="
+        "last_transaction_lt": "80584426000001",
+        "last_transaction_hash": "18rO2eZi+Y9kdiQnoy3c5cs66rhPBtkTUKgXCQC9a40="
       },
       "usage": {
-        "transactions_after_receive": 97,
-        "outgoing_messages_after_receive": 113,
-        "external_requests_after_receive": 94,
+        "transactions_after_receive": 102,
+        "outgoing_messages_after_receive": 122,
+        "external_requests_after_receive": 99,
         "external_opcodes": [
           {
             "opcode": "0x55c45d7d",
             "decoded_opcode": "wallet_signed_v4",
-            "count": 94
+            "count": 99
           }
         ],
         "first_external_utime": 1782903612,
         "first_external_time": "2026-07-01T11:00:12.000Z",
-        "last_external_utime": 1783029916,
-        "last_external_time": "2026-07-02T22:05:16.000Z",
-        "last_activity_utime": 1783029916,
-        "last_activity_time": "2026-07-02T22:05:16.000Z",
-        "scanned_transactions": 97,
+        "last_external_utime": 1783035190,
+        "last_external_time": "2026-07-02T23:33:10.000Z",
+        "last_activity_utime": 1783035190,
+        "last_activity_time": "2026-07-02T23:33:10.000Z",
+        "scanned_transactions": 102,
         "scan_truncated": false
       }
     },
