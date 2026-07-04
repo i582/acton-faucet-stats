@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-04T13:53:15.170Z",
+  "generated_at": "2026-07-04T14:52:45.350Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 387,
   "checked_recipients": 387,
@@ -1928,35 +1928,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 179,
+        "seqno": 180,
         "is_signature_allowed": true,
-        "balance": "7155444876",
-        "balance_ton": 7.155444876,
+        "balance": "7176637547",
+        "balance_ton": 7.176637547,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "80883158000008",
-        "last_transaction_hash": "UYhgGbOQILJLwGIobqxMO6Je3MBOf9FXYFLx7LAb8RI="
+        "last_transaction_lt": "80937532000003",
+        "last_transaction_hash": "UBsppYAYbzbgtVtCKPO4KnTfdBhpcN260uj2oWKLZMY="
       },
       "usage": {
-        "transactions_after_receive": 258,
-        "outgoing_messages_after_receive": 179,
-        "external_requests_after_receive": 179,
+        "transactions_after_receive": 262,
+        "outgoing_messages_after_receive": 182,
+        "external_requests_after_receive": 182,
         "external_opcodes": [
           {
             "opcode": "0x7369676e",
             "decoded_opcode": "w5_external_signed_request",
-            "count": 179
+            "count": 182
           }
         ],
         "first_external_utime": 1782705605,
         "first_external_time": "2026-06-29T04:00:05.000Z",
-        "last_external_utime": 1783065549,
-        "last_external_time": "2026-07-03T07:59:09.000Z",
-        "last_activity_utime": 1783154420,
-        "last_activity_time": "2026-07-04T08:40:20.000Z",
-        "scanned_transactions": 258,
+        "last_external_utime": 1783176174,
+        "last_external_time": "2026-07-04T14:42:54.000Z",
+        "last_activity_utime": 1783176174,
+        "last_activity_time": "2026-07-04T14:42:54.000Z",
+        "scanned_transactions": 262,
         "scan_truncated": false
       }
     },
