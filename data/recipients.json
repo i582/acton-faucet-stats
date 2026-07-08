@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-08T03:23:31.026Z",
+  "generated_at": "2026-07-08T05:25:21.817Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 404,
   "checked_recipients": 404,
@@ -8306,35 +8306,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v4 r2",
         "wallet_id": 698983191,
-        "seqno": 4,
+        "seqno": 5,
         "is_signature_allowed": null,
-        "balance": "2852327573",
-        "balance_ton": 2.852327573,
+        "balance": "2662178615",
+        "balance_ton": 2.662178615,
         "code_hash": "/rX/aCDi/w2Ug+fg1iyBfYRniftK5YDIeIZtlZ2r1cA=",
         "interfaces": [
           "wallet_v4r2"
         ],
-        "last_transaction_lt": "81592772000003",
-        "last_transaction_hash": "g6eEl3Zs3OY8qfrjkv/UqrYZFOf2TDuEANnzbBv/Xz0="
+        "last_transaction_lt": "81715540000003",
+        "last_transaction_hash": "aKW2rXj6A4KiqzA7FL/3iDfLBRSsdzgjAZWaPjzaQfA="
       },
       "usage": {
-        "transactions_after_receive": 18,
-        "outgoing_messages_after_receive": 4,
-        "external_requests_after_receive": 4,
+        "transactions_after_receive": 20,
+        "outgoing_messages_after_receive": 5,
+        "external_requests_after_receive": 5,
         "external_opcodes": [
           {
             "opcode": "0x154e8822",
             "decoded_opcode": "wallet_signed_v4",
-            "count": 4
+            "count": 5
           }
         ],
         "first_external_utime": 1783406908,
         "first_external_time": "2026-07-07T06:48:28.000Z",
-        "last_external_utime": 1783431413,
-        "last_external_time": "2026-07-07T13:36:53.000Z",
-        "last_activity_utime": 1783437608,
-        "last_activity_time": "2026-07-07T15:20:08.000Z",
-        "scanned_transactions": 18,
+        "last_external_utime": 1783485781,
+        "last_external_time": "2026-07-08T04:43:01.000Z",
+        "last_activity_utime": 1783486592,
+        "last_activity_time": "2026-07-08T04:56:32.000Z",
+        "scanned_transactions": 20,
         "scan_truncated": false
       }
     },
