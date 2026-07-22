@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-22T21:48:44.463Z",
+  "generated_at": "2026-07-22T22:46:39.694Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 581,
   "checked_recipients": 581,
@@ -155,27 +155,27 @@
       "address": "0:6EEF3A5C335CB3CEA5EFB5ADAAB04C7ED4D4EE06DD3A6E9EBC608805A45E1289",
       "first_received_utime": 1784697908,
       "first_received_time": "2026-07-22T05:25:08.000Z",
-      "last_received_utime": 1784753915,
-      "last_received_time": "2026-07-22T20:58:35.000Z",
-      "claims": 21,
-      "amount": "42000000000",
-      "amount_ton": 42,
+      "last_received_utime": 1784758622,
+      "last_received_time": "2026-07-22T22:17:02.000Z",
+      "claims": 23,
+      "amount": "46000000000",
+      "amount_ton": 46,
       "wallet": {
         "initialized": true,
         "status": "active",
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 1886,
+        "seqno": 2000,
         "is_signature_allowed": true,
-        "balance": "2591859970",
-        "balance_ton": 2.59185997,
+        "balance": "4241037622",
+        "balance_ton": 4.241037622,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "84882931000001",
-        "last_transaction_hash": "8yp5Ce93WqbB9MnCvS2kPUxHzJ+P/R0YQRWtglpRJ84="
+        "last_transaction_lt": "84891633000001",
+        "last_transaction_hash": "7uzzPSj4764wfEBAjqkaLbiSQVDtHP9pY2p6Ju2q07g="
       },
       "usage": {
         "transactions_after_receive": 1000,
