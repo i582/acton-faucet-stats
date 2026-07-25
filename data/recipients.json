@@ -1,9 +1,9 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-25T07:14:23.633Z",
+  "generated_at": "2026-07-25T08:02:36.473Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
-  "total_recipients": 628,
-  "checked_recipients": 628,
+  "total_recipients": 630,
+  "checked_recipients": 630,
   "skipped_recipients": 0,
   "settings": {
     "recipient_transactions_page_limit": 100,
@@ -14,27 +14,27 @@
       "address": "0:6EEF3A5C335CB3CEA5EFB5ADAAB04C7ED4D4EE06DD3A6E9EBC608805A45E1289",
       "first_received_utime": 1784697908,
       "first_received_time": "2026-07-22T05:25:08.000Z",
-      "last_received_utime": 1784962162,
-      "last_received_time": "2026-07-25T06:49:22.000Z",
-      "claims": 90,
-      "amount": "180000000000",
-      "amount_ton": 180,
+      "last_received_utime": 1784962930,
+      "last_received_time": "2026-07-25T07:02:10.000Z",
+      "claims": 91,
+      "amount": "182000000000",
+      "amount_ton": 182,
       "wallet": {
         "initialized": true,
         "status": "active",
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 8357,
+        "seqno": 8455,
         "is_signature_allowed": true,
-        "balance": "7153979368",
-        "balance_ton": 7.153979368,
+        "balance": "7133134315",
+        "balance_ton": 7.133134315,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "85402931000001",
-        "last_transaction_hash": "bl0x/MLsCFUAOW2QW9dSXtdVlcElJ+sGTmLr48ua71Q="
+        "last_transaction_lt": "85410303000001",
+        "last_transaction_hash": "CwgpDxW2znwhJdhxXE3Qzc+B89t+wG6FZM8f8rmPgo4="
       },
       "usage": {
         "transactions_after_receive": 1000,
@@ -401,35 +401,35 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 81,
+        "seqno": 82,
         "is_signature_allowed": true,
-        "balance": "3231600828",
-        "balance_ton": 3.231600828,
+        "balance": "2680863787",
+        "balance_ton": 2.680863787,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "85400361000001",
-        "last_transaction_hash": "fMjzrvADfytCByxsaYQx9FBST1TdFid7uEzUp2BbYrY="
+        "last_transaction_lt": "85409839000001",
+        "last_transaction_hash": "RNXNzMrXpELfX2+WBaxcrWDoChT2zb2i810MNUQ1+os="
       },
       "usage": {
-        "transactions_after_receive": 102,
-        "outgoing_messages_after_receive": 81,
-        "external_requests_after_receive": 81,
+        "transactions_after_receive": 103,
+        "outgoing_messages_after_receive": 82,
+        "external_requests_after_receive": 82,
         "external_opcodes": [
           {
             "opcode": "0x7369676e",
             "decoded_opcode": "w5_external_signed_request",
-            "count": 81
+            "count": 82
           }
         ],
         "first_external_utime": 1784760432,
         "first_external_time": "2026-07-22T22:47:12.000Z",
-        "last_external_utime": 1784961587,
-        "last_external_time": "2026-07-25T06:39:47.000Z",
-        "last_activity_utime": 1784961587,
-        "last_activity_time": "2026-07-25T06:39:47.000Z",
-        "scanned_transactions": 102,
+        "last_external_utime": 1784965351,
+        "last_external_time": "2026-07-25T07:42:31.000Z",
+        "last_activity_utime": 1784965351,
+        "last_activity_time": "2026-07-25T07:42:31.000Z",
+        "scanned_transactions": 103,
         "scan_truncated": false
       }
     },
@@ -943,6 +943,53 @@
       }
     },
     {
+      "address": "0:680B0657947B9DC3276C1C81A0D3A9005A8C528C59245A36CFF3DD18EDF2F092",
+      "first_received_utime": 1784759556,
+      "first_received_time": "2026-07-22T22:32:36.000Z",
+      "last_received_utime": 1784965334,
+      "last_received_time": "2026-07-25T07:42:14.000Z",
+      "claims": 8,
+      "amount": "16000000000",
+      "amount_ton": 16,
+      "wallet": {
+        "initialized": true,
+        "status": "active",
+        "is_wallet": true,
+        "wallet_type": "wallet v5 r1",
+        "wallet_id": 2147483645,
+        "seqno": 83,
+        "is_signature_allowed": true,
+        "balance": "2858190643",
+        "balance_ton": 2.858190643,
+        "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
+        "interfaces": [
+          "wallet_v5r1"
+        ],
+        "last_transaction_lt": "85409831000001",
+        "last_transaction_hash": "lLp/MeMiWBaVLHE1tAW2DbmfGM/VimxJxt+sMynHGY0="
+      },
+      "usage": {
+        "transactions_after_receive": 110,
+        "outgoing_messages_after_receive": 83,
+        "external_requests_after_receive": 83,
+        "external_opcodes": [
+          {
+            "opcode": "0x7369676e",
+            "decoded_opcode": "w5_external_signed_request",
+            "count": 83
+          }
+        ],
+        "first_external_utime": 1784760429,
+        "first_external_time": "2026-07-22T22:47:09.000Z",
+        "last_external_utime": 1784965347,
+        "last_external_time": "2026-07-25T07:42:27.000Z",
+        "last_activity_utime": 1784965347,
+        "last_activity_time": "2026-07-25T07:42:27.000Z",
+        "scanned_transactions": 110,
+        "scan_truncated": false
+      }
+    },
+    {
       "address": "0:3029B3EAEDA86A5381D86100F2A8B761C38DE45642EDB6E4BB1CCA2E6DD7FFED",
       "first_received_utime": 1784833852,
       "first_received_time": "2026-07-23T19:10:52.000Z",
@@ -1121,53 +1168,6 @@
         "last_activity_utime": 1784718192,
         "last_activity_time": "2026-07-22T11:03:12.000Z",
         "scanned_transactions": 80,
-        "scan_truncated": false
-      }
-    },
-    {
-      "address": "0:680B0657947B9DC3276C1C81A0D3A9005A8C528C59245A36CFF3DD18EDF2F092",
-      "first_received_utime": 1784759556,
-      "first_received_time": "2026-07-22T22:32:36.000Z",
-      "last_received_utime": 1784950421,
-      "last_received_time": "2026-07-25T03:33:41.000Z",
-      "claims": 7,
-      "amount": "14000000000",
-      "amount_ton": 14,
-      "wallet": {
-        "initialized": true,
-        "status": "active",
-        "is_wallet": true,
-        "wallet_type": "wallet v5 r1",
-        "wallet_id": 2147483645,
-        "seqno": 82,
-        "is_signature_allowed": true,
-        "balance": "1408919285",
-        "balance_ton": 1.408919285,
-        "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
-        "interfaces": [
-          "wallet_v5r1"
-        ],
-        "last_transaction_lt": "85400351000001",
-        "last_transaction_hash": "8sRIdiT+0q1RNnBHHA7nCCbXlSL2IGtJr18xb4DQ7Ho="
-      },
-      "usage": {
-        "transactions_after_receive": 108,
-        "outgoing_messages_after_receive": 82,
-        "external_requests_after_receive": 82,
-        "external_opcodes": [
-          {
-            "opcode": "0x7369676e",
-            "decoded_opcode": "w5_external_signed_request",
-            "count": 82
-          }
-        ],
-        "first_external_utime": 1784760429,
-        "first_external_time": "2026-07-22T22:47:09.000Z",
-        "last_external_utime": 1784961583,
-        "last_external_time": "2026-07-25T06:39:43.000Z",
-        "last_activity_utime": 1784961583,
-        "last_activity_time": "2026-07-25T06:39:43.000Z",
-        "scanned_transactions": 108,
         "scan_truncated": false
       }
     },
@@ -13407,6 +13407,100 @@
       }
     },
     {
+      "address": "0:8B1BBA3CAB91DD9519C31A186BF8482959681AF969FC5AA72EF98F71F3752DE7",
+      "first_received_utime": 1784965005,
+      "first_received_time": "2026-07-25T07:36:45.000Z",
+      "last_received_utime": 1784965012,
+      "last_received_time": "2026-07-25T07:36:52.000Z",
+      "claims": 2,
+      "amount": "4000000000",
+      "amount_ton": 4,
+      "wallet": {
+        "initialized": true,
+        "status": "active",
+        "is_wallet": true,
+        "wallet_type": "wallet v5 r1",
+        "wallet_id": 2147483645,
+        "seqno": 35,
+        "is_signature_allowed": true,
+        "balance": "574350003",
+        "balance_ton": 0.574350003,
+        "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
+        "interfaces": [
+          "wallet_v5r1"
+        ],
+        "last_transaction_lt": "85409494000001",
+        "last_transaction_hash": "gOvbaG7PIsUrh1rFoVZr7cEkIr606N6J6/atyPD+1xo="
+      },
+      "usage": {
+        "transactions_after_receive": 37,
+        "outgoing_messages_after_receive": 35,
+        "external_requests_after_receive": 35,
+        "external_opcodes": [
+          {
+            "opcode": "0x7369676e",
+            "decoded_opcode": "w5_external_signed_request",
+            "count": 35
+          }
+        ],
+        "first_external_utime": 1784965018,
+        "first_external_time": "2026-07-25T07:36:58.000Z",
+        "last_external_utime": 1784965214,
+        "last_external_time": "2026-07-25T07:40:14.000Z",
+        "last_activity_utime": 1784965214,
+        "last_activity_time": "2026-07-25T07:40:14.000Z",
+        "scanned_transactions": 37,
+        "scan_truncated": false
+      }
+    },
+    {
+      "address": "0:1381B0A3568ED5C3328372DD95EC4CE4BAA41942D7861F1FF10788CE1425D7FA",
+      "first_received_utime": 1784965344,
+      "first_received_time": "2026-07-25T07:42:24.000Z",
+      "last_received_utime": 1784965365,
+      "last_received_time": "2026-07-25T07:42:45.000Z",
+      "claims": 2,
+      "amount": "4000000000",
+      "amount_ton": 4,
+      "wallet": {
+        "initialized": true,
+        "status": "active",
+        "is_wallet": true,
+        "wallet_type": "wallet v5 r1",
+        "wallet_id": 2147483645,
+        "seqno": 35,
+        "is_signature_allowed": true,
+        "balance": "574350002",
+        "balance_ton": 0.574350002,
+        "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
+        "interfaces": [
+          "wallet_v5r1"
+        ],
+        "last_transaction_lt": "85410229000001",
+        "last_transaction_hash": "1JrY16VEgDAwZR2u4exI2E4dNxENiwdx/ULU0MgrL8M="
+      },
+      "usage": {
+        "transactions_after_receive": 37,
+        "outgoing_messages_after_receive": 35,
+        "external_requests_after_receive": 35,
+        "external_opcodes": [
+          {
+            "opcode": "0x7369676e",
+            "decoded_opcode": "w5_external_signed_request",
+            "count": 35
+          }
+        ],
+        "first_external_utime": 1784965369,
+        "first_external_time": "2026-07-25T07:42:49.000Z",
+        "last_external_utime": 1784965510,
+        "last_external_time": "2026-07-25T07:45:10.000Z",
+        "last_activity_utime": 1784965510,
+        "last_activity_time": "2026-07-25T07:45:10.000Z",
+        "scanned_transactions": 37,
+        "scan_truncated": false
+      }
+    },
+    {
       "address": "0:6FFCED2DCDBBA11C9F4AA0BE8AC3FDAFD466EEF04C96B7904A0A14F1397F64D9",
       "first_received_utime": 1778494343,
       "first_received_time": "2026-05-11T10:12:23.000Z",
@@ -21471,17 +21565,17 @@
         "wallet_id": 698983191,
         "seqno": 47,
         "is_signature_allowed": null,
-        "balance": "447182500967",
-        "balance_ton": 447.182500967,
+        "balance": "447182500944",
+        "balance_ton": 447.182500944,
         "code_hash": "hNr6RJ+Ypph3ibojI1gHK8D3bcRSQAKl0JGLmnXS1Zk=",
         "interfaces": [
           "wallet_v3r2"
         ],
-        "last_transaction_lt": "85399025000006",
-        "last_transaction_hash": "Up6Un8LmsbrEqPajm4tppW/mIpdTMLW591gxw5FWYlc="
+        "last_transaction_lt": "85408124000006",
+        "last_transaction_hash": "wm9HtawOiQALqXX6ltE1BAgvGijqF8A71YVW0bZH1DY="
       },
       "usage": {
-        "transactions_after_receive": 174,
+        "transactions_after_receive": 175,
         "outgoing_messages_after_receive": 45,
         "external_requests_after_receive": 47,
         "external_opcodes": [
@@ -21495,9 +21589,9 @@
         "first_external_time": "2026-06-24T12:09:39.000Z",
         "last_external_utime": 1784919189,
         "last_external_time": "2026-07-24T18:53:09.000Z",
-        "last_activity_utime": 1784961053,
-        "last_activity_time": "2026-07-25T06:30:53.000Z",
-        "scanned_transactions": 174,
+        "last_activity_utime": 1784964668,
+        "last_activity_time": "2026-07-25T07:31:08.000Z",
+        "scanned_transactions": 175,
         "scan_truncated": false
       }
     },
