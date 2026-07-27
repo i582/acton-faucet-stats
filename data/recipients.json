@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-27T21:48:24.780Z",
+  "generated_at": "2026-07-27T22:47:30.408Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 657,
   "checked_recipients": 657,
@@ -22239,7 +22239,7 @@
         "last_transaction_hash": "oqUA2IGq+8/41QTzSddndbXPQXcYM5cMUNS9Um1rHn8="
       },
       "usage": {
-        "transactions_after_receive": 349,
+        "transactions_after_receive": 350,
         "outgoing_messages_after_receive": 96,
         "external_requests_after_receive": 98,
         "external_opcodes": [
@@ -22253,9 +22253,9 @@
         "first_external_time": "2026-06-24T12:09:39.000Z",
         "last_external_utime": 1785184961,
         "last_external_time": "2026-07-27T20:42:41.000Z",
-        "last_activity_utime": 1785185591,
-        "last_activity_time": "2026-07-27T20:53:11.000Z",
-        "scanned_transactions": 349,
+        "last_activity_utime": 1785191463,
+        "last_activity_time": "2026-07-27T22:31:03.000Z",
+        "scanned_transactions": 350,
         "scan_truncated": false
       }
     },
