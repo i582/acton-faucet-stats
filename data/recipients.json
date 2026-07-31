@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-07-31T05:36:29.672Z",
+  "generated_at": "2026-07-31T07:28:54.892Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 684,
   "checked_recipients": 684,
@@ -30060,25 +30060,25 @@
         "wallet_id": null,
         "seqno": null,
         "is_signature_allowed": null,
-        "balance": "1999999272",
-        "balance_ton": 1.999999272,
+        "balance": "1999998955",
+        "balance_ton": 1.999998955,
         "code_hash": null,
         "interfaces": [],
-        "last_transaction_lt": "86321482000006",
-        "last_transaction_hash": "FdDAK+Z46W3QmVwnoy8zz1fu+7uE80wXNNLvZEAT6nc="
+        "last_transaction_lt": "86709028000006",
+        "last_transaction_hash": "jcGiWDqfPp7SKNMWIibV0raRvGrNSn5Y/CqiF1aVfFM="
       },
       "usage": {
-        "transactions_after_receive": 6,
-        "outgoing_messages_after_receive": 5,
+        "transactions_after_receive": 10,
+        "outgoing_messages_after_receive": 9,
         "external_requests_after_receive": 0,
         "external_opcodes": [],
         "first_external_utime": null,
         "first_external_time": null,
         "last_external_utime": null,
         "last_external_time": null,
-        "last_activity_utime": 1785328020,
-        "last_activity_time": "2026-07-29T12:27:00.000Z",
-        "scanned_transactions": 6,
+        "last_activity_utime": 1785482538,
+        "last_activity_time": "2026-07-31T07:22:18.000Z",
+        "scanned_transactions": 10,
         "scan_truncated": false
       }
     },
