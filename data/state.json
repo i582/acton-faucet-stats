@@ -10,11 +10,11 @@
     "account_start_lt": "68861867000001",
     "account_start_tx_hash": "XgFWCo7OhFRHmKek6kj8dU5W9tkbnzV3qyvSTCLWJCo="
   },
-  "last_utime": 1785696554,
-  "last_lt": "87258363000001",
-  "last_hash": "yNtSk3Vum0cvnnZezEYuBM+uDo9gtFss2fMNOO3EEsA=",
-  "updated_at": "2026-08-02T19:54:20.541Z",
-  "last_fetch_start_utime": 1785687839,
+  "last_utime": 1785698669,
+  "last_lt": "87264018000001",
+  "last_hash": "dVj32OKvzhgvUpfdwvp+G1LeZXadlgaeLH5C9OCNvYU=",
+  "updated_at": "2026-08-02T20:47:10.157Z",
+  "last_fetch_start_utime": 1785689354,
   "last_run": {
     "fetched_transactions": 6,
     "added_events": 1,
