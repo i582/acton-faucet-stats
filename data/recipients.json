@@ -1,6 +1,6 @@
 {
   "schema": "acton-faucet-recipients-v1",
-  "generated_at": "2026-08-02T01:12:17.221Z",
+  "generated_at": "2026-08-02T02:03:05.005Z",
   "faucet_address": "kQD_O1WeM-icMY8JIoGzgySEQ8ivvoSpgSoglUsaua6YDBtX",
   "total_recipients": 684,
   "checked_recipients": 684,
@@ -28931,16 +28931,16 @@
         "is_wallet": true,
         "wallet_type": "wallet v5 r1",
         "wallet_id": 2147483645,
-        "seqno": 4,
+        "seqno": 5,
         "is_signature_allowed": true,
-        "balance": "2637434720",
-        "balance_ton": 2.63743472,
+        "balance": "1633436435",
+        "balance_ton": 1.633436435,
         "code_hash": "IINLe3KxEhR+Gy+0V7hOdNGjDwT3N9T2KmaOlVLSty8=",
         "interfaces": [
           "wallet_v5r1"
         ],
-        "last_transaction_lt": "87037674000001",
-        "last_transaction_hash": "JLInkC7OgsuopoGnMCwFEWMMaBlGoLt6yqT8PfVBXhY="
+        "last_transaction_lt": "87096068000001",
+        "last_transaction_hash": "bp0zKT+L/jaXVx3lUeP5mUZ0zM/bsigNE7fjNo7n5W0="
       },
       "usage": {
         "transactions_after_receive": 7,
